@@ -133,7 +133,7 @@
 
   #if ENABLED(CR10_STOCKDISPLAY)
 
-    #define BEEPER_PIN                      PB5
+    #define BEEPER_PIN                      -1
     #define BTN_ENC                       EXP1_9
 
     #define BTN_EN1                         PA9
